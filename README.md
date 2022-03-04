@@ -1,2 +1,2 @@
-# daydream
-what was the day?
+# Daydream
+> A command-line program for figuring out the day.
