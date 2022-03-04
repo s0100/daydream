@@ -1,6 +1,6 @@
 # Daydream
 
-It's command-line program for figuring out the day.
+It's a command-line program for figuring out the day.
 
 I did not compile it, you have to do that by yourself.
 
